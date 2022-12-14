@@ -1,0 +1,23 @@
+Ligne,Produit,Simtap,nb blisters,Date,Panne,Fréquence,Durée
+Bec 650,Phloroglucinol,Oui,1,13/11/2022,Remplissage 1,1 fois,3 min
+Bec 650,Phloroglucinol,Oui,1,13/11/2022,TE AV,1 fois,plus de 5 min
+Bec 650,Phloroglucinol,Oui,1,13/11/2022,Prises étuis,1 fois,3 min
+Bec 650,Phloroglucinol,Oui,1,13/11/2022,Remplissage 1,1 fois,1 min
+Bec 650,Phloroglucinol,Oui,1,13/11/2022,Clapet sécurité,1 fois,1 min
+Bec 780,Fenofibrate,Oui,9,13/11/2022,Prises notices,2 fois,1 min
+Bec 780,Fenofibrate,Oui,9,13/11/2022,Bourrage fardeleuse,plus de 10 fois,1 min
+Bec 780,Fenofibrate,Oui,9,13/11/2022,TE AV,plus de 10 fois,1 min
+Bec 780,Fenofibrate,Oui,9,13/11/2022,TE AR,plus de 10 fois,1 min
+Bec 780,Fenofibrate,Oui,9,13/11/2022,Remplissage 1,plus de 10 fois,1 min
+Bec 780,Fenofibrate,Oui,9,13/11/2022,Clapet sécurité,plus de 3 fois,1 min
+Bec 553,Zopiclone,Oui,2,13/11/2022,TE AV,plus de 3 fois,3 min
+Bec 553,Zopiclone,Oui,2,12/11/2022,Prises étuis,plus de 3 fois,plus de 5 min
+Bec 553,Zopiclone,Oui,2,12/11/2022,Clapet sécurité,plus de 10 fois,1 min
+Bec 553,Zopiclone,Oui,2,12/11/2022,Prises étuis,plus de 3 fois,1 min
+Bec 553,Zopiclone,Oui,2,12/11/2022,Remplissage 1,plus de 10 fois,plus de 10 min
+Bec 650,Letrozole,Oui,2,12/11/2022,Remplissage 1,plus de 3 fois,plus de 10 min
+Bec 650,Phloroglucinol,Oui,2,12/11/2022,Prises notices,plus de 10 fois,2 min
+Bec 780,Fenofibrate,Oui,5,12/11/2022,TE AR,plus de 10 fois,2 min
+Bec 650,Zopiclone,Non,9,09/11/2022,Prises étuis,2 fois,2 min
+Bec 553,Phloroglucinol,Non,1,09/11/2022,Prises notices,plus de 3 fois,2 min
+Bec 553,Phloroglucinol,Oui,1,09/11/2022,Remplissage 1,1 fois,1 min
