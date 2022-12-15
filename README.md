@@ -1,4 +1,4 @@
-# gestion-pannes-recurrentes-bec
+# Gestion des pannes récurrentes sur les BEC
 
 Btt possède trois Bec. La 550, la 650 et la 780.
 Plusieurs produits sont conditionnés sur ces trois machines. Nous pouvons remarquer que des pannes récurrentes sont à déplorer. 
